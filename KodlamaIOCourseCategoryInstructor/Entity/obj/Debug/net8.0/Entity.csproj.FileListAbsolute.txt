@@ -1,0 +1,12 @@
+D:\WebApps\.NET\2024DeveloperCampHomeworks\KodlamaIOCourseCategoryInstructor\Entity\bin\Debug\net8.0\Entity.deps.json
+D:\WebApps\.NET\2024DeveloperCampHomeworks\KodlamaIOCourseCategoryInstructor\Entity\bin\Debug\net8.0\Entity.dll
+D:\WebApps\.NET\2024DeveloperCampHomeworks\KodlamaIOCourseCategoryInstructor\Entity\bin\Debug\net8.0\Entity.pdb
+D:\WebApps\.NET\2024DeveloperCampHomeworks\KodlamaIOCourseCategoryInstructor\Entity\obj\Debug\net8.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebApps\.NET\2024DeveloperCampHomeworks\KodlamaIOCourseCategoryInstructor\Entity\obj\Debug\net8.0\Entity.AssemblyInfoInputs.cache
+D:\WebApps\.NET\2024DeveloperCampHomeworks\KodlamaIOCourseCategoryInstructor\Entity\obj\Debug\net8.0\Entity.AssemblyInfo.cs
+D:\WebApps\.NET\2024DeveloperCampHomeworks\KodlamaIOCourseCategoryInstructor\Entity\obj\Debug\net8.0\Entity.csproj.CoreCompileInputs.cache
+D:\WebApps\.NET\2024DeveloperCampHomeworks\KodlamaIOCourseCategoryInstructor\Entity\obj\Debug\net8.0\Entity.sourcelink.json
+D:\WebApps\.NET\2024DeveloperCampHomeworks\KodlamaIOCourseCategoryInstructor\Entity\obj\Debug\net8.0\Entity.dll
+D:\WebApps\.NET\2024DeveloperCampHomeworks\KodlamaIOCourseCategoryInstructor\Entity\obj\Debug\net8.0\refint\Entity.dll
+D:\WebApps\.NET\2024DeveloperCampHomeworks\KodlamaIOCourseCategoryInstructor\Entity\obj\Debug\net8.0\Entity.pdb
+D:\WebApps\.NET\2024DeveloperCampHomeworks\KodlamaIOCourseCategoryInstructor\Entity\obj\Debug\net8.0\ref\Entity.dll
