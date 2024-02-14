@@ -1,0 +1,15 @@
+D:\WebApps\.NET\2024DeveloperCampHomeworks\OOPGoodProgrammer\ReferenceTypes\bin\Debug\net8.0\ReferenceTypes.exe
+D:\WebApps\.NET\2024DeveloperCampHomeworks\OOPGoodProgrammer\ReferenceTypes\bin\Debug\net8.0\ReferenceTypes.deps.json
+D:\WebApps\.NET\2024DeveloperCampHomeworks\OOPGoodProgrammer\ReferenceTypes\bin\Debug\net8.0\ReferenceTypes.runtimeconfig.json
+D:\WebApps\.NET\2024DeveloperCampHomeworks\OOPGoodProgrammer\ReferenceTypes\bin\Debug\net8.0\ReferenceTypes.dll
+D:\WebApps\.NET\2024DeveloperCampHomeworks\OOPGoodProgrammer\ReferenceTypes\bin\Debug\net8.0\ReferenceTypes.pdb
+D:\WebApps\.NET\2024DeveloperCampHomeworks\OOPGoodProgrammer\ReferenceTypes\obj\Debug\net8.0\ReferenceTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebApps\.NET\2024DeveloperCampHomeworks\OOPGoodProgrammer\ReferenceTypes\obj\Debug\net8.0\ReferenceTypes.AssemblyInfoInputs.cache
+D:\WebApps\.NET\2024DeveloperCampHomeworks\OOPGoodProgrammer\ReferenceTypes\obj\Debug\net8.0\ReferenceTypes.AssemblyInfo.cs
+D:\WebApps\.NET\2024DeveloperCampHomeworks\OOPGoodProgrammer\ReferenceTypes\obj\Debug\net8.0\ReferenceTypes.csproj.CoreCompileInputs.cache
+D:\WebApps\.NET\2024DeveloperCampHomeworks\OOPGoodProgrammer\ReferenceTypes\obj\Debug\net8.0\ReferenceTypes.sourcelink.json
+D:\WebApps\.NET\2024DeveloperCampHomeworks\OOPGoodProgrammer\ReferenceTypes\obj\Debug\net8.0\ReferenceTypes.dll
+D:\WebApps\.NET\2024DeveloperCampHomeworks\OOPGoodProgrammer\ReferenceTypes\obj\Debug\net8.0\refint\ReferenceTypes.dll
+D:\WebApps\.NET\2024DeveloperCampHomeworks\OOPGoodProgrammer\ReferenceTypes\obj\Debug\net8.0\ReferenceTypes.pdb
+D:\WebApps\.NET\2024DeveloperCampHomeworks\OOPGoodProgrammer\ReferenceTypes\obj\Debug\net8.0\ReferenceTypes.genruntimeconfig.cache
+D:\WebApps\.NET\2024DeveloperCampHomeworks\OOPGoodProgrammer\ReferenceTypes\obj\Debug\net8.0\ref\ReferenceTypes.dll
