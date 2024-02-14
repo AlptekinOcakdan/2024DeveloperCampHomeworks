@@ -1,0 +1,15 @@
+D:\WebApps\.NET\2024DeveloperCampHomeworks\OOPGoodProgrammer\Generics\bin\Debug\net8.0\Generics.exe
+D:\WebApps\.NET\2024DeveloperCampHomeworks\OOPGoodProgrammer\Generics\bin\Debug\net8.0\Generics.deps.json
+D:\WebApps\.NET\2024DeveloperCampHomeworks\OOPGoodProgrammer\Generics\bin\Debug\net8.0\Generics.runtimeconfig.json
+D:\WebApps\.NET\2024DeveloperCampHomeworks\OOPGoodProgrammer\Generics\bin\Debug\net8.0\Generics.dll
+D:\WebApps\.NET\2024DeveloperCampHomeworks\OOPGoodProgrammer\Generics\bin\Debug\net8.0\Generics.pdb
+D:\WebApps\.NET\2024DeveloperCampHomeworks\OOPGoodProgrammer\Generics\obj\Debug\net8.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebApps\.NET\2024DeveloperCampHomeworks\OOPGoodProgrammer\Generics\obj\Debug\net8.0\Generics.AssemblyInfoInputs.cache
+D:\WebApps\.NET\2024DeveloperCampHomeworks\OOPGoodProgrammer\Generics\obj\Debug\net8.0\Generics.AssemblyInfo.cs
+D:\WebApps\.NET\2024DeveloperCampHomeworks\OOPGoodProgrammer\Generics\obj\Debug\net8.0\Generics.csproj.CoreCompileInputs.cache
+D:\WebApps\.NET\2024DeveloperCampHomeworks\OOPGoodProgrammer\Generics\obj\Debug\net8.0\Generics.sourcelink.json
+D:\WebApps\.NET\2024DeveloperCampHomeworks\OOPGoodProgrammer\Generics\obj\Debug\net8.0\Generics.dll
+D:\WebApps\.NET\2024DeveloperCampHomeworks\OOPGoodProgrammer\Generics\obj\Debug\net8.0\refint\Generics.dll
+D:\WebApps\.NET\2024DeveloperCampHomeworks\OOPGoodProgrammer\Generics\obj\Debug\net8.0\Generics.pdb
+D:\WebApps\.NET\2024DeveloperCampHomeworks\OOPGoodProgrammer\Generics\obj\Debug\net8.0\Generics.genruntimeconfig.cache
+D:\WebApps\.NET\2024DeveloperCampHomeworks\OOPGoodProgrammer\Generics\obj\Debug\net8.0\ref\Generics.dll

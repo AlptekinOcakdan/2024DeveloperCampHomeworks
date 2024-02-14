@@ -1,0 +1,15 @@
+D:\WebApps\.NET\2024DeveloperCampHomeworks\OOPGoodProgrammer\LinqProject\bin\Debug\net8.0\LinqProject.exe
+D:\WebApps\.NET\2024DeveloperCampHomeworks\OOPGoodProgrammer\LinqProject\bin\Debug\net8.0\LinqProject.deps.json
+D:\WebApps\.NET\2024DeveloperCampHomeworks\OOPGoodProgrammer\LinqProject\bin\Debug\net8.0\LinqProject.runtimeconfig.json
+D:\WebApps\.NET\2024DeveloperCampHomeworks\OOPGoodProgrammer\LinqProject\bin\Debug\net8.0\LinqProject.dll
+D:\WebApps\.NET\2024DeveloperCampHomeworks\OOPGoodProgrammer\LinqProject\bin\Debug\net8.0\LinqProject.pdb
+D:\WebApps\.NET\2024DeveloperCampHomeworks\OOPGoodProgrammer\LinqProject\obj\Debug\net8.0\LinqProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebApps\.NET\2024DeveloperCampHomeworks\OOPGoodProgrammer\LinqProject\obj\Debug\net8.0\LinqProject.AssemblyInfoInputs.cache
+D:\WebApps\.NET\2024DeveloperCampHomeworks\OOPGoodProgrammer\LinqProject\obj\Debug\net8.0\LinqProject.AssemblyInfo.cs
+D:\WebApps\.NET\2024DeveloperCampHomeworks\OOPGoodProgrammer\LinqProject\obj\Debug\net8.0\LinqProject.csproj.CoreCompileInputs.cache
+D:\WebApps\.NET\2024DeveloperCampHomeworks\OOPGoodProgrammer\LinqProject\obj\Debug\net8.0\LinqProject.sourcelink.json
+D:\WebApps\.NET\2024DeveloperCampHomeworks\OOPGoodProgrammer\LinqProject\obj\Debug\net8.0\LinqProject.dll
+D:\WebApps\.NET\2024DeveloperCampHomeworks\OOPGoodProgrammer\LinqProject\obj\Debug\net8.0\refint\LinqProject.dll
+D:\WebApps\.NET\2024DeveloperCampHomeworks\OOPGoodProgrammer\LinqProject\obj\Debug\net8.0\LinqProject.pdb
+D:\WebApps\.NET\2024DeveloperCampHomeworks\OOPGoodProgrammer\LinqProject\obj\Debug\net8.0\LinqProject.genruntimeconfig.cache
+D:\WebApps\.NET\2024DeveloperCampHomeworks\OOPGoodProgrammer\LinqProject\obj\Debug\net8.0\ref\LinqProject.dll
