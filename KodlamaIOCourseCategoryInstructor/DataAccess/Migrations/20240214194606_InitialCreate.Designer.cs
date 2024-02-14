@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace DataAccess.Migrations
 {
     [DbContext(typeof(Context))]
-    [Migration("20240214193136_mig_add_all_entities")]
-    partial class mig_add_all_entities
+    [Migration("20240214194606_InitialCreate")]
+    partial class InitialCreate
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -92,7 +92,8 @@ namespace DataAccess.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<decimal>("Salary")
-                        .HasColumnType("decimal(18,2)");
+                        .HasPrecision(20, 2)
+                        .HasColumnType("decimal(20,2)");
 
                     b.HasKey("InstructorId");
 

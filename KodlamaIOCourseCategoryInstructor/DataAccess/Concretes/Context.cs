@@ -7,7 +7,7 @@ public class Context:DbContext
 {
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
-        optionsBuilder.UseSqlServer("Server=localhost;Database=KodlamaIo Initial Catalog=CourseEducationProjectDB; Integrated Security=true; TrustServerCertificate=true");
+        optionsBuilder.UseSqlServer("Server=localhost;Database=KodlamaIo; Integrated Security=true; TrustServerCertificate=true");
     }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)

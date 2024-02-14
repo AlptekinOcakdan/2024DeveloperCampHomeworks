@@ -5,7 +5,7 @@
 namespace DataAccess.Migrations
 {
     /// <inheritdoc />
-    public partial class mig_add_all_entities : Migration
+    public partial class InitialCreate : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -31,7 +31,7 @@ namespace DataAccess.Migrations
                         .Annotation("SqlServer:Identity", "1, 1"),
                     FirstName = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Lastname = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    Salary = table.Column<decimal>(type: "decimal(18,2)", nullable: false)
+                    Salary = table.Column<decimal>(type: "decimal(20,2)", precision: 20, scale: 2, nullable: false)
                 },
                 constraints: table =>
                 {
